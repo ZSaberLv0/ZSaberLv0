@@ -23,8 +23,8 @@ here's some interesting things I developed:
 * [PayPal](https://paypal.me/ZSaberLv0)
 
 <table border=0 frame=void rules=none><tr>
-<td><img src="https://raw.githubusercontent.com/ZSaberLv0/ZSaberLv0/master/img/wechat.png" /></td>
-<td><img src="https://raw.githubusercontent.com/ZSaberLv0/ZSaberLv0/master/img/alipay.png" /></td>
+<td><img src="https://user-images.githubusercontent.com/6846867/108944785-6f55d480-7696-11eb-8643-f2178d567ec5.png" /></td>
+<td><img src="https://user-images.githubusercontent.com/6846867/108944778-6d8c1100-7696-11eb-942b-7ae7b94c54e1.png" /></td>
 </tr></table>
 
 <!--
