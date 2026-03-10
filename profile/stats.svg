@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">ZERO's GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 441, Total Commits  (last year) : 4183, Total PRs: 32, Total Issues: 67, Contributed to (last year): 13</desc>
+        <desc id="descId">Total Stars Earned: 441, Total Commits  (last year) : 4185, Total PRs: 32, Total Issues: 67, Contributed to (last year): 13</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 76.18957507419434;
+        stroke-dashoffset: 76.1895729462189;
       }
     }
   
